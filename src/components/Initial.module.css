@@ -1,0 +1,31 @@
+.initial {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.initial img {
+  width: 300px;
+}
+
+.link {
+  background-color: #49393b;
+  padding: 0 2rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #e9e9e9;
+  transition: 0.3s ease;
+  border: 2px solid #e9e9e9;
+  border-radius: 50px;
+  margin-top: 5rem;
+}
+
+.link:hover {
+  background-color: #f06c9b;
+}
