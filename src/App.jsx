@@ -7,7 +7,7 @@ import Admin from './components/Admin';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/lista-de-casamento',
     element: <RootLayout />,
     children: [
       { index: true, element: <Initial /> },
