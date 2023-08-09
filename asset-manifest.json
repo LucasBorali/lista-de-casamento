@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lista-de-casamento/static/css/main.1ac82e75.css",
-    "main.js": "/lista-de-casamento/static/js/main.140edfd1.js",
+    "main.css": "/lista-de-casamento/static/css/main.434d7da9.css",
+    "main.js": "/lista-de-casamento/static/js/main.3dda6087.js",
     "static/js/787.d43e7237.chunk.js": "/lista-de-casamento/static/js/787.d43e7237.chunk.js",
     "static/media/white.png": "/lista-de-casamento/static/media/white.494fac0dc3767cdb942d.png",
     "index.html": "/lista-de-casamento/index.html",
-    "main.1ac82e75.css.map": "/lista-de-casamento/static/css/main.1ac82e75.css.map",
-    "main.140edfd1.js.map": "/lista-de-casamento/static/js/main.140edfd1.js.map",
+    "main.434d7da9.css.map": "/lista-de-casamento/static/css/main.434d7da9.css.map",
+    "main.3dda6087.js.map": "/lista-de-casamento/static/js/main.3dda6087.js.map",
     "787.d43e7237.chunk.js.map": "/lista-de-casamento/static/js/787.d43e7237.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac82e75.css",
-    "static/js/main.140edfd1.js"
+    "static/css/main.434d7da9.css",
+    "static/js/main.3dda6087.js"
   ]
 }
