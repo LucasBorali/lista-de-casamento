@@ -62,7 +62,7 @@ const Admin = () => {
   }, [presentes]);
 
   return (
-    <div className={classes.admin}>
+    <div id='admin' className={classes.admin}>
       <form onSubmit={addItemHandler} className={classes['add-item']}>
         <label htmlFor="item">Adicionar</label>
         <input

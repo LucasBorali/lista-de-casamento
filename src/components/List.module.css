@@ -47,18 +47,25 @@
   background-color: #ffffff3b;
   border: 2px solid #fff;
   border-radius: 10px;
-  width: 70vw;
-  height: 30vh;
+  min-width: 70vw;
+  max-width: 90vw;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 1rem;
+  padding: 5px;
 }
 
 .window p,
 .window h2 {
   margin: 0;
+  text-align: center;
+}
+
+.window div {
+  text-align: center;
 }
 
 .window button {
